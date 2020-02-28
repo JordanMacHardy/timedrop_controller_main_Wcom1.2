@@ -1,4 +1,4 @@
-# timedrop_mechatronics_controller_main
+# timedrop_mechatronics_controller
 
 This program is designed to control the mechanical functions of the Time Drop interactive art experience. 
 It runs on elegoo mega 2560 Boards, with four Cylewet KY-040 Rotary Encoders/Buttons.
